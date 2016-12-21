@@ -1,0 +1,4 @@
+# Real Analysis_II
+My progress through Real Analysis II. It was definitely a more challenging course than many others.
+
+Real Analysis was very mind opening and a struggle at the same time. This is a course that can always be more understood at a deeper level. Above are the homeworks I was assigned at the University of Texas at Austin by Dr. Beckner, a true genius. Along the way there was much of the material I felt very comfortable with, however there was much I didn't understand. The difficulty of this course at times was semmingly out of reach. Nonetheless I learned alot in this enjoyable course. I would highly recommend using the above documents for the problems rather than the solutions, since I'm sure there are much more clever approaches to the given proofs than the one I took. If you need to contact me please email me at Thomas.Lockwood@UTexas.edu.
